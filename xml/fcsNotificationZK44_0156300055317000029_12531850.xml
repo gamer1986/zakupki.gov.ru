@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns3="http://zakupki.gov.ru/oos/printform/1" xmlns:ns4="http://zakupki.gov.ru/oos/control99/1">
+    <ns2:fcsNotificationZK schemeVersion="7.1">
+        <id>12531850</id>
+        <purchaseNumber>0156300055317000029</purchaseNumber>
+        <directDate>2017-05-29T09:31:00+05:00</directDate>
+        <docPublishDate>2017-05-29T13:08:59.788+05:00</docPublishDate>
+        <href>http://zakupki.gov.ru/epz/order/notice/zk44/view/common-info.html?regNumber=0156300055317000029</href>
+        <printForm>
+            <url>http://zakupki.gov.ru/epz/order/notice/printForm/viewXml.html?noticeId=12531850</url>
+            <signature type="CAdES-BES">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</signature>
+        </printForm>
+        <purchaseObjectInfo>Оказание услуг по заправке картриджей копировально-множительной техники</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>01563000553</regNum>
+                <consRegistryNum>57301212</consRegistryNum>
+                <fullName>АДМИНИСТРАЦИЯ ЧУСОВСКОГО МУНИЦИПАЛЬНОГО РАЙОНА ПЕРМСКОГО КРАЯ</fullName>
+                <postAddress>Российская Федерация, 618204, Пермский край, Чусовой г, УЛ СИВКОВА, ДОМ 8/КОРПУС Б</postAddress>
+                <factAddress>Российская Федерация, 618204, Пермский край, Чусовой г, УЛ СИВКОВА, ДОМ 8/КОРПУС Б</factAddress>
+                <INN>5921009285</INN>
+                <KPP>592101001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 618204, Пермский край, Чусовой г, УЛ СИВКОВА, ДОМ 8/КОРПУС Б</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 618204, Пермский край, Чусовой г, УЛ СИВКОВА, ДОМ 8/КОРПУС Б</orgFactAddress>
+                <contactPerson>
+                    <lastName>Лапоногова</lastName>
+                    <firstName>Елена</firstName>
+                    <middleName>Геннадьевна</middleName>
+                </contactPerson>
+                <contactEMail>ot.ekonom@mail.ru</contactEMail>
+                <contactPhone>7-34256-33578</contactPhone>
+                <contactFax>7-34256-33610</contactFax>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>ZKP44</code>
+            <name>Запрос котировок</name>
+        </placingWay>
+        <contractServiceInfo>Контрактная служба администрации Чусовского муниципального района Пермского края, положение и состав утверждены постановлением администрации Чусовского муниципального района от 26.02.2014 № 258</contractServiceInfo>
+        <procedureInfo>
+            <collecting>
+                <startDate>2017-05-29T12:00:00+05:00</startDate>
+                <place>Российская Федерация, 618204, Пермский край, Чусовой г, УЛ СИВКОВА, ДОМ 8/КОРПУС Б, кабинет 406</place>
+                <order>1. Участник закупки вправе подать только одну заявку на участие в запросе котировок. 
+2. Котировочные заявки подаются в письменной форме. 
+3. Способ подачи котировочной заявки в письменной форме: почтой или с курьером. 
+4. Котировочная заявка подается в запечатанном конверте, не позволяющем просматривать содержание заявки до вскрытия конверта. 
+5.Участник при отправке заявки на участие в запросе котировок по почте несет риск того, что его заявка будет доставлена по неправильному адресу или несвоевременно и признана опоздавшей. 
+6. Ввиду отсутствия легитимного электронного документооборота подача заявок на участие в запросе котировок в форме электронного документа по данному запросу котировок не допускается. 
+</order>
+                <endDate>2017-06-06T11:10:00+05:00</endDate>
+                <form>Содержится в приложении на странице "Сопроводительная документация"</form>
+            </collecting>
+            <opening>
+                <date>2017-06-06T11:10:00+05:00</date>
+                <place>Российская Федерация, 618204, Пермский край, Чусовой г, УЛ СИВКОВА, ДОМ 8/КОРПУС Б, кабинет 307</place>
+                <addInfo>Вход в помещение администрации Чусовского муниципального района - по разовым пропускам, выдаваемым сотрудником администрации, находящимся в гардеробной. Предоставляется возможность всем участникам запроса котировок, подавшим заявки на участие в запросе котировок, или представителям этих участников (с надлежащим образом оформленными документами, подтверждающими право присутствовать на процедуре вскрытия конвертов) присутствовать при вскрытии конвертов с такими заявками.</addInfo>
+            </opening>
+            <contracting>
+                <contractingTerm>В соответствии с пунктом 13 Статьи 78 Федерального закона от 05.04.2013 № 44-ФЗ «О Контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд» Контракт может быть заключен не ранее чем через семь дней с даты размещения протокола рассмотрения и оценки заявок на участие в запросе котировок и не позднее чем через двадцать дней с даты подписания указанного протокола.</contractingTerm>
+                <evadeConditions>В случае, если победитель запроса котировок не представил заказчику подписанный контракт и выписку из единого государственного реестра юридических лиц или засвидетельствованную в нотариальном порядке копию такой выписки (для юридического лица), которые получены не ранее чем за шесть месяцев до даты размещения в единой информационной системе извещения о проведении запроса котировок, надлежащим образом заверенный перевод на русский язык документов о государственной регистрации юридического лица в соответствии с законодательством соответствующего государства (для иностранного лица) в срок, указанный в извещении о проведении запроса котировок, такой победитель признается уклонившимся от заключения контракта. В случае признания победителя запроса котировок уклонившимся от заключения контракта заказчик вправе обратиться в суд с иском о возмещении убытков, причиненных уклонением от заключения контракта, и заключить контракт с участником запроса котировок, предложившим такую же, как и победитель запроса котировок, цену контракта, или при отсутствии этого участника с участником запроса котировок, предложение о цене контракта которого содержит лучшее условие по цене контракта, следующее после предложенного победителем запроса котировок условия, если цена контракта не превышает начальную (максимальную) цену контракта, указанную в извещении о проведении запроса котировок. При этом заключение контракта для этих участников является обязательным. В случае уклонения этих участников от заключения контракта заказчик вправе обратиться в суд с иском о возмещении убытков, причиненных уклонением от заключения контракта, и осуществить повторно запрос котировок. 
+
+</evadeConditions>
+            </contracting>
+        </procedureInfo>
+        <lot>
+            <maxPrice>44820.5</maxPrice>
+            <maxPriceInfo>Содержится в приложении на странице "Сопроводительная документация"</maxPriceInfo>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <financeSource>бюджет Чусовского муниципального района Пермского края</financeSource>
+            <interbudgetaryTransfer>false</interbudgetaryTransfer>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>01563000553</regNum>
+                        <consRegistryNum>57301212</consRegistryNum>
+                        <fullName>АДМИНИСТРАЦИЯ ЧУСОВСКОГО МУНИЦИПАЛЬНОГО РАЙОНА ПЕРМСКОГО КРАЯ</fullName>
+                    </customer>
+                    <maxPrice>44820.5</maxPrice>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>C</kladrType>
+                                <kladrCode>59000013000</kladrCode>
+                                <fullName>Российская Федерация, Пермский край, Чусовой г</fullName>
+                            </kladr>
+                            <deliveryPlace>По месту нахождения Исполнителя (сервисный центр,
+сервисная мастерская и т.п.)
+</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>Другая периодичность</deliveryTerm>
+                    <onesideRejection>Предусмотрено условиями контракта</onesideRejection>
+                    <purchaseCode>173592100928559210100100180259511244</purchaseCode>
+                    <tenderPlanInfo>
+                        <plan2017Number>2017015630005530010003</plan2017Number>
+                        <position2017Number>2017015630005530010000180001</position2017Number>
+                    </tenderPlanInfo>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей для принтеров</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>294</price>
+                    <quantity>
+                        <value>7.00</value>
+                    </quantity>
+                    <sum>2058</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей для принтеров</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>294</price>
+                    <quantity>
+                        <value>7.00</value>
+                    </quantity>
+                    <sum>2058</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей для принтеров</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>390</price>
+                    <quantity>
+                        <value>5.00</value>
+                    </quantity>
+                    <sum>1950</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей для принтеров</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>375</price>
+                    <quantity>
+                        <value>3.00</value>
+                    </quantity>
+                    <sum>1125</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей для принтеров</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>306</price>
+                    <quantity>
+                        <value>16.00</value>
+                    </quantity>
+                    <sum>4896</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>306</price>
+                    <quantity>
+                        <value>14.00</value>
+                    </quantity>
+                    <sum>4284</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>296</price>
+                    <quantity>
+                        <value>28.00</value>
+                    </quantity>
+                    <sum>8288</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей для принтеров</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>412.5</price>
+                    <quantity>
+                        <value>3.00</value>
+                    </quantity>
+                    <sum>1237.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей для принтеров</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>304</price>
+                    <quantity>
+                        <value>4.00</value>
+                    </quantity>
+                    <sum>1216</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей для принтеров</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>316</price>
+                    <quantity>
+                        <value>4.00</value>
+                    </quantity>
+                    <sum>1264</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей для принтеров</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>1000</price>
+                    <quantity>
+                        <value>2.00</value>
+                    </quantity>
+                    <sum>2000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей для принтеров</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>1000</price>
+                    <quantity>
+                        <value>2.00</value>
+                    </quantity>
+                    <sum>2000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей для принтеров</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>1000</price>
+                    <quantity>
+                        <value>3.00</value>
+                    </quantity>
+                    <sum>3000</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей для принтеров</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>1100</price>
+                    <quantity>
+                        <value>6.00</value>
+                    </quantity>
+                    <sum>6600</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>95.11.10.130</code>
+                        <name>Услуги по заправке картриджей для принтеров</name>
+                    </OKPD2>
+                    <name>Услуги по заправке картриджей для принтеров</name>
+                    <OKEI>
+                        <code>642</code>
+                        <nationalCode>ЕД</nationalCode>
+                    </OKEI>
+                    <price>316</price>
+                    <quantity>
+                        <value>9.00</value>
+                    </quantity>
+                    <sum>2844</sum>
+                </purchaseObject>
+                <totalSum>44820.5</totalSum>
+            </purchaseObjects>
+            <preferenses>
+                <preferense>
+                    <shortName>MP44</shortName>
+                    <name>Субъектам малого предпринимательства, социально ориентированным некоммерческим организациям</name>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>Содержатся в приложении на странице "Сопроводительная документация"</content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>Содержатся в приложении на странице "Сопроводительная документация"</content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                    <content>К участию в закупке допускаются только субъекты малого предпринимательства и социально ориентированные некоммерческие организации</content>
+                </restriction>
+                <restriction>
+                    <shortName>JB2149</shortName>
+                    <name>Запрет на допуск товаров, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными статьей 14 Федерального закона № 44-ФЗ</name>
+                    <content>С 01.01.2016 запрещено выполнение работ, оказание услуг для обеспечения государственных и муниципальных нужд организациями под юрисдикцией Турции, а также организациями, контролируемыми гражданами Турции и (или) организациями, находящимися под юрисдикцией Турции (Постановление Правительства РФ от 29.12.2015 N 1457, Письмо Минэкономразвития России N 12589-ЕЕ/Д28и, ФАС России N АЦ/28993/16 от 28.04.2016).
+</content>
+                </restriction>
+            </restrictions>
+            <mustPublicDiscussion>false</mustPublicDiscussion>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>50A0A93D3CF800EAE0530A86121F75C2</publishedContentId>
+                <fileName>Извещение - картриджи.docx</fileName>
+                <fileSize>26.95 Кб</fileSize>
+                <docDescription>Извещение - картриджи</docDescription>
+                <url>http://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=50A0A93D3CF800EAE0530A86121F75C2</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>50A0A93D3CFE00EAE0530A86121F75C2</publishedContentId>
+                <fileName>Обснование цены по заправке (с ОДН)..xlsx</fileName>
+                <fileSize>15.98 Кб</fileSize>
+                <docDescription>Обснование цены по заправке (с ОДН).</docDescription>
+                <url>http://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=50A0A93D3CFE00EAE0530A86121F75C2</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>50985CB16D3A006CE0530A86121F6A5D</publishedContentId>
+                <fileName>Проект муниципального контракта-картриджи.docx</fileName>
+                <fileSize>47.12 Кб</fileSize>
+                <docDescription>Проект муниципального контракта-картриджи</docDescription>
+                <url>http://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=50985CB16D3A006CE0530A86121F6A5D</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">MIINTAYJKoZIhvcNAQcCoIINPTCCDTkCAQExDDAKBgYqhQMCAgkFADALBgkqhkiG9w0BBwGgggkcMIIJGDCCCMegAwIBAgIDF116MAgGBiqFAwICAzCCAV0xGDAWBgkqhkiG9w0BCQITCVNlcnZlciBDQTEgMB4GCSqGSIb3DQEJARYRdWNfZmtAcm9za2F6bmEucnUxHDAaBgNVBAgMEzc3INCzLiDQnNC+0YHQutCy0LAxGjAYBggqhQMDgQMBARIMMDA3NzEwNTY4NzYwMRgwFgYFKoUDZAESDTEwNDc3OTcwMTk4MzAxLDAqBgNVBAkMI9GD0LvQuNGG0LAg0JjQu9GM0LjQvdC60LAsINC00L7QvCA3MRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE/MD0GA1UEAww20KPQpiDQpNC10LTQtdGA0LDQu9GM0L3QvtCz0L4g0LrQsNC30L3QsNGH0LXQudGB0YLQstCwMB4XDTE2MDYwMzAzMzMwOVoXDTE3MDkwMzAzMzMwOVowggIJMRowGAYIKoUDA4EDAQESDDU5MjEwMTYyNDIyNTEWMBQGBSqFA2QDEgswNDUxMTAxNzkwMzEeMBwGCSqGSIb3DQEJARYPY2h1c2FkbUBtYWlsLnJ1MQswCQYDVQQGEwJSVTElMCMGA1UECAwcNTkg0J/QtdGA0LzRgdC60LjQuSDQutGA0LDQuTEXMBUGA1UEBwwO0KfRg9GB0L7QstC+0LkxfjB8BgNVBAoMddCQ0LTQvNC40L3QuNGB0YLRgNCw0YbQuNGPINCn0YPRgdC+0LLRgdC60L7Qs9C+INC80YPQvdC40YbQuNC/0LDQu9GM0L3QvtCz0L4g0YDQsNC50L7QvdCwINCf0LXRgNC80YHQutC+0LPQviDQutGA0LDRjzEqMCgGA1UEKgwh0JXQu9C10L3QsCDQk9C10L3QvdCw0LTRjNC10LLQvdCwMR0wGwYDVQQEDBTQm9Cw0L/QvtC90L7Qs9C+0LLQsDFaMFgGA1UEDAxR0LrQvtC90YHRg9C70YzRgtCw0L3RgiDQvtGC0LTQtdC70LAg0Y3QutC+0L3QvtC80LjRh9C10YHQutC+0LPQviDRgNCw0LfQstC40YLQuNGPMT8wPQYDVQQDDDbQm9Cw0L/QvtC90L7Qs9C+0LLQsCDQldC70LXQvdCwINCT0LXQvdC90LDQtNGM0LXQstC90LAwYzAcBgYqhQMCAhMwEgYHKoUDAgIkAAYHKoUDAgIeAQNDAARAWba4y6av8qZ25BQ6xN1tcrs/llMFywr6yC3x39iHHSIfQrRtm/hWDfPu1wMfJNep47vgsWfo8LH3DdezJVmi86OCBLwwggS4MAwGA1UdEwEB/wQCMAAwHQYDVR0gBBYwFDAIBgYqhQNkcQEwCAYGKoUDZHECMFgGA1UdEQRRME+gEgYDVQQMoAsTCTYwMTExMTcxMaAZBgoqhQMDPZ7XNgEHoAsTCTU5MjEwMTAwMaAbBgoqhQMDPZ7XNgEFoA0TCzAxNTYzMDAwNTUzhgEwMDYGBSqFA2RvBC0MKyLQmtGA0LjQv9GC0L7Qn9GA0L4gQ1NQIiAo0LLQtdGA0YHQuNGPIDMuNikwggFhBgUqhQNkcASCAVYwggFSDEQi0JrRgNC40L/RgtC+0J/RgNC+IENTUCIgKNCy0LXRgNGB0LjRjyAzLjYpICjQuNGB0L/QvtC70L3QtdC90LjQtSAyKQxoItCf0YDQvtCz0YDQsNC80LzQvdC+LdCw0L/Qv9Cw0YDQsNGC0L3Ri9C5INC60L7QvNC/0LvQtdC60YEgItCu0L3QuNGB0LXRgNGCLdCT0J7QodCiIi4g0JLQtdGA0YHQuNGPIDIuMSIMT9Ch0LXRgNGC0LjRhNC40LrQsNGCINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjRjyDihJYg0KHQpC8xMjQtMjczOCDQvtGCIDAxLjA3LjIwMTUMT9Ch0LXRgNGC0LjRhNC40LrQsNGCINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjRjyDihJYg0KHQpC8xMjgtMjE3NSDQvtGCIDIwLjA2LjIwMTMwDgYDVR0PAQH/BAQDAgPoMEMGA1UdJQQ8MDoGCCsGAQUFBwMCBg4qhQMDPZ7XNgEGAwQBAQYOKoUDAz2e1zYBBgMEAQIGDiqFAwM9ntc2AQYDBAEEMCsGA1UdEAQkMCKADzIwMTYwNjAzMDMzMjE5WoEPMjAxNzA5MDMwMzMyMTlaMIIBjwYDVR0jBIIBhjCCAYKAFJ5xDg/atAEoXz/iy49lFZcCR4yroYIBZaSCAWEwggFdMRgwFgYJKoZIhvcNAQkCEwlTZXJ2ZXIgQ0ExIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRwwGgYDVQQIDBM3NyDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMSwwKgYDVQQJDCPRg9C70LjRhtCwINCY0LvRjNC40L3QutCwLCDQtNC+0LwgNzEVMBMGA1UEBwwM0JzQvtGB0LrQstCwMQswCQYDVQQGEwJSVTE4MDYGA1UECgwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4xPzA9BgNVBAMMNtCj0KYg0KTQtdC00LXRgNCw0LvRjNC90L7Qs9C+INC60LDQt9C90LDRh9C10LnRgdGC0LLQsIIBATBeBgNVHR8EVzBVMCmgJ6AlhiNodHRwOi8vY3JsLnJvc2them5hLnJ1L2NybC9mazAxLmNybDAooCagJIYiaHR0cDovL2NybC5mc2ZrLmxvY2FsL2NybC9mazAxLmNybDAdBgNVHQ4EFgQUfxxwOwxoLez0qM5LIsHIUBrjF3owCAYGKoUDAgIDA0EAnIqD5bISsmVJhQdzFWjFaMa7aI3w/6n0wztehGVvemdK9NVrylVU3UPs9DMKHLXvL7TfwizpQYF5d41LnKEWZDGCA/cwggPzAgEBMIIBZjCCAV0xGDAWBgkqhkiG9w0BCQITCVNlcnZlciBDQTEgMB4GCSqGSIb3DQEJARYRdWNfZmtAcm9za2F6bmEucnUxHDAaBgNVBAgMEzc3INCzLiDQnNC+0YHQutCy0LAxGjAYBggqhQMDgQMBARIMMDA3NzEwNTY4NzYwMRgwFgYFKoUDZAESDTEwNDc3OTcwMTk4MzAxLDAqBgNVBAkMI9GD0LvQuNGG0LAg0JjQu9GM0LjQvdC60LAsINC00L7QvCA3MRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE/MD0GA1UEAww20KPQpiDQpNC10LTQtdGA0LDQu9GM0L3QvtCz0L4g0LrQsNC30L3QsNGH0LXQudGB0YLQstCwAgMXXXowCgYGKoUDAgIJBQCgggIoMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE3MDUyOTA2MzAwMlowLwYJKoZIhvcNAQkEMSIEIA+3vMl8pxa8e9zZRXatOPmeLFbUQSAetGtVwfWbFstaMIIBuwYLKoZIhvcNAQkQAi8xggGqMIIBpjCCAaIwggGeMAgGBiqFAwICCQQgweznbhEPl9WJC1/O1DnpNjOdQsW3DEwsZzrnXsMLjsUwggFuMIIBZaSCAWEwggFdMRgwFgYJKoZIhvcNAQkCEwlTZXJ2ZXIgQ0ExIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRwwGgYDVQQIDBM3NyDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMSwwKgYDVQQJDCPRg9C70LjRhtCwINCY0LvRjNC40L3QutCwLCDQtNC+0LwgNzEVMBMGA1UEBwwM0JzQvtGB0LrQstCwMQswCQYDVQQGEwJSVTE4MDYGA1UECgwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4xPzA9BgNVBAMMNtCj0KYg0KTQtdC00LXRgNCw0LvRjNC90L7Qs9C+INC60LDQt9C90LDRh9C10LnRgdGC0LLQsAIDF116MAoGBiqFAwICEwUABEC5XdvlfEtxCGBZumg29yv8Ajq9Ga5QrmSbWXnz33HHdI+ZCN8pXeVdPWL/hZEaGqmSKAnI1KvFq6vSsW9FDJPt</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>509E94ED57EC009EE0530A86121F70F4</publishedContentId>
+                <fileName>ТЕХНИЧЕСКОЕ ЗАДАНИЕ - картриджи.docx</fileName>
+                <fileSize>23.28 Кб</fileSize>
+                <docDescription>ТЕХНИЧЕСКОЕ ЗАДАНИЕ - картриджи</docDescription>
+                <url>http://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=509E94ED57EC009EE0530A86121F70F4</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>5098846C920600A6E0530A86121FE18C</publishedContentId>
+                <fileName>Форма кот.заявки - картриджи.doc</fileName>
+                <fileSize>62 Кб</fileSize>
+                <docDescription>Форма кот.заявки - картриджи</docDescription>
+                <url>http://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=5098846C920600A6E0530A86121FE18C</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+    </ns2:fcsNotificationZK>
+</ns2:export>
